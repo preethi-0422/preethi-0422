@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Preethi
 I'm currently working on improving my problem-solving skills, learning Data Structures & Algorithms (DSA) with Java, and exploring web development . I'm also enhancing my knowledge in Android development  while staying updated with the latest technologies.  <br><br>I'm looking to collaborate on Android and web development projects, DSA problem-solving, and innovative tech solutions that solve real-world problems.   <br><br>Ask me about Android development with Kotlin, problem-solving techniques.  <br><br>Fun fact: I love exploring new technologies, attending tech events, and continuously learning to improve my skills! 🚀  
 
 
