@@ -80,9 +80,9 @@
 
 ### 🎯 **"Never stop learning, because life never stops teaching!"**  
 
-<p align="center">
+<!--<p align="center">
   <img src="https://visitcount.itsvg.in/api?id=preethi-0422&icon=0&color=1" alt="Profile Views">
-</p>
+</p>-->
 
 ---
 
